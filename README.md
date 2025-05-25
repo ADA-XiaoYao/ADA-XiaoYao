@@ -3,7 +3,6 @@
 ![ADA-XiaoYao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ADA-XiaoYao&theme=dark)](https://git.io/streak-stats)
 [![ADA-XiaoYao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ADA-XiaoYao&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ADA-XiaoYao&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADA-XiaoYao&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <!-- 分组 1-5 -->
 <p align="center">
@@ -104,4 +103,4 @@
     <img src="https://skillicons.dev/icons?i=webpack,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,zig&theme=dark&perline=15" />
   </a>
 </p>
-![Profile views](https://gpvc.arturio.dev/[ADA-XiaoYao])
+![Visitor Count](https://profile-counter.glitch.me/ADA-XiaoYao/count.svg)
