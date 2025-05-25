@@ -4,5 +4,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ADA-XiaoYao&theme=dark)](https://git.io/streak-stats)
 [![ADA-XiaoYao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ADA-XiaoYao&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADA-XiaoYao&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 [![我的技能](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark&perline=15)](https://skillicons.dev)
