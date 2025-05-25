@@ -104,5 +104,4 @@
     <img src="https://skillicons.dev/icons?i=webpack,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,zig&theme=dark&perline=15" />
   </a>
 </p>
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/Lang-JavaScript-yellowgreen
+<img src="https://komarev.com/ghpvc/?username=ADA-XiaoYao&abbreviated=true" />
