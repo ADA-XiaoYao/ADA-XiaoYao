@@ -104,3 +104,4 @@
     <img src="https://skillicons.dev/icons?i=webpack,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,zig&theme=dark&perline=15" />
   </a>
 </p>
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
