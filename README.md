@@ -3,3 +3,4 @@
 ![ADA-XiaoYao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ADA-XiaoYao&theme=dark)](https://git.io/streak-stats)
 [![ADA-XiaoYao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ADA-XiaoYao&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
