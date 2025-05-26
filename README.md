@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/THREAT--CON-DELTA-purple?style=for-the-badge&logo=hackerone&logoColor=white)
 
 ```
- __   __  _____                 ____   __     __              ____  
+ __   __   _____                  ____   __     __              ____  
  \ \ / /  |_   _|      /\        / __ \  \ \   / /     /\        / __ \ 
   \ V /    | |       /  \       | |  | |  \ \_/ /     /  \       | |  | |
    > <     | |      / /\ \      | |  | |   \   /     / /\ \      | |  | |
