@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Alfadi%E8%81%94%E7%9B%9F&fontSize=90&font=Noto+Sans+SC)
-<p align="center">
-</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Alfadi联盟&fontSize=90&fontAlign=50&fontAlignY=30&desc=网络空间安全&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 [![Typing SVG](https://readme-typing-svg.demolab.com?MI_TRANS_ID-7=Fira%E7%A0%81&size=37&MI_TRANS_ID-11=%E6%AD%A3%E5%B8%B8%E7%9A%84&pause=1000&center=true&vCenter=true&width=435&lines=Cyberspace+Security)](https://git.io/typing-svg)
 ![ADA-XiaoYao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=radical)
