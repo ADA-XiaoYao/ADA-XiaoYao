@@ -13,7 +13,6 @@
 
 ## [01] 暗影军械库 | SHADOW ARSENAL
 ### **核心渗透工具** 
-```markdown
 <img src="https://img.shields.io/badge/Metasploit-E34F26?logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Cobalt_Strike-FF6F00?logo=cobaltstrike" />
 <img src="https://img.shields.io/badge/Sqlmap-FFA500?logo=sqlmap" />
@@ -21,127 +20,103 @@
 <img src="https://img.shields.io/badge/Responder-8A2BE2?logo=terminal" />
 <img src="https://img.shields.io/badge/BeEF-FF0000?logo=beef" />
 <img src="https://img.shields.io/badge/Armitage-00BFFF?logo=armitage" />
-```
 
 ---
 
 ### **网络侦查矩阵** 
-```markdown
 <img src="https://img.shields.io/badge/Nmap-0E8A16?logo=nmap" />
 <img src="https://img.shields.io/badge/Masscan-00FF00?logo=network" />
 <img src="https://img.shields.io/badge/Zenmap-228B22?logo=zenmap" />
 <img src="https://img.shields.io/badge/Netdiscover-8B0000?logo=gnu-netcat" />
 <img src="https://img.shields.io/badge/Shodan-000000?logo=shodan" />
 <img src="https://img.shields.io/badge/Recon--ng-8A2BE2?logo=recon-ng" />
-```
 
 ---
 
 ### **无线战争套件** 
-```markdown
 <img src="https://img.shields.io/badge/Aircrack--ng-8B008B?logo=wifi" />
 <img src="https://img.shields.io/badge/Reaver-FF4500?logo=raspberry-pi" />
 <img src="https://img.shields.io/badge/Wifite-4B0082?logo=gnu" />
 <img src="https://img.shields.io/badge/Kismet-000080?logo=signal" />
 <img src="https://img.shields.io/badge/Fern_Wifi_Cracker-228B22?logo=fern" />
-```
 
 ---
 
 ### **密码学与破解工具** 
-```markdown
 <img src="https://img.shields.io/badge/JohnTheRipper-FFD700?logo=john-the-ripper" />
 <img src="https://img.shields.io/badge/Hashcat-00BFFF?logo=hashicorp" />
 <img src="https://img.shields.io/badge/Crunch-808080?logo=terminal" />
 <img src="https://img.shields.io/badge/RainbowCrack-00FFFF?logo=rainbow" />
 <img src="https://img.shields.io/badge/Hydra-FF6347?logo=hydra" />
-```
 
 ---
 
 ### **逆向工程平台** 
-```markdown
 <img src="https://img.shields.io/badge/Ghidra-4B275F?logo=ghidra" />
 <img src="https://img.shields.io/badge/IDA_Pro-9999FF?logo=ida-pro" />
 <img src="https://img.shields.io/badge/Radare2-008080?logo=radare2" />
 <img src="https://img.shields.io/badge/Binary_Ninja-8A2BE2?logo=binary-ninja" />
 <img src="https://img.shields.io/badge/Immunity_Debugger-00FF00?logo=immunity-debugger" />
-```
 
 ---
 
 ### **社会工程学套件** 
-```markdown
 <img src="https://img.shields.io/badge/SEToolkit-8A2BE2?logo=shell" />
 <img src="https://img.shields.io/badge/King_Phisher-FF4500?logo=king-phisher" />
 <img src="https://img.shields.io/badge/Gophish-00FF00?logo=gophish" />
 <img src="https://img.shields.io/badge/Evilginx2-000000?logo=nginx" />
-```
 
 ---
 
 ### **云安全工具链** 
-```markdown
 <img src="https://img.shields.io/badge/Pacu-FF6F00?logo=amazon-aws" />
 <img src="https://img.shields.io/badge/Cloudsploit-00BFFF?logo=cloudsploit" />
 <img src="https://img.shields.io/badge/ScoutSuite-228B22?logo=scoutsuite" />
 <img src="https://img.shields.io/badge/S3Scanner-8A2BE2?logo=amazon-s3" />
-```
 
 ---
 
 ### **区块链安全** 
-```markdown
 <img src="https://img.shields.io/badge/Mythril-000000?logo=mythril" />
 <img src="https://img.shields.io/badge/Slither-8A2BE2?logo=slither" />
 <img src="https://img.shields.io/badge/Ethlint-00BFFF?logo=ethereum" />
 <img src="https://img.shields.io/badge/Octopus-FF4500?logo=octopus-deploy" />
-```
 
 ---
 
 ### **移动安全工具** 
-```markdown
 <img src="https://img.shields.io/badge/MobSF-FF6F00?logo=mobsf" />
 <img src="https://img.shields.io/badge/Frida-000000?logo=frida" />
 <img src="https://img.shields.io/badge/APKTool-00FF00?logo=android" />
 <img src="https://img.shields.io/badge/Jadx-8A2BE2?logo=jadx" />
-```
 
 ---
 
 ### **数字取证工具** 
-```markdown
 <img src="https://img.shields.io/badge/Autopsy-228B22?logo=autopsy" />
 <img src="https://img.shields.io/badge/Volatility-00BFFF?logo=volatility" />
 <img src="https://img.shields.io/badge/Binwalk-FF4500?logo=binary" />
 <img src="https://img.shields.io/badge/Foremost-8B0000?logo=file" />
-```
 
 ---
 
 ### **匿名与隐匿工具** 
-```markdown
 <img src="https://img.shields.io/badge/Tor-7D4698?logo=tor-project" />
 <img src="https://img.shields.io/badge/Proxychains-8A2BE2?logo=link" />
 <img src="https://img.shields.io/badge/Anonsurf-4B0082?logo=anonymous" />
 <img src="https://img.shields.io/badge/Macchanger-000080?logo=apple" />
-```
 
 ---
 
 ### **持续集成与测试** 
-```markdown
 <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?logo=travis-ci" />
 <img src="https://img.shields.io/badge/Codecov-F01F7A?logo=codecov" />
 <img src="https://img.shields.io/badge/Jest-C21325?logo=jest" />
 <img src="https://img.shields.io/badge/Mocha-8A2BE2?logo=mocha" />
-```
 
 ---
 
 ### **其他安全工具** 
-```markdown
 <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark" />
 <img src="https://img.shields.io/badge/Zeek-FF0000?logo=zeek" />
 <img src="https://img.shields.io/badge/Snort-8A2BE2?logo=snort" />
