@@ -10,26 +10,6 @@
 
 ---
 
-<!-- 动态Kali ASCII艺术 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ADA-XiaoYao/ADA-XiaoYao/main/assets/kali-ascii.svg" width="600"/>
-</p>
-
-<!-- 实时终端模拟器 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ADA-XiaoYao/ADA-XiaoYao/main/assets/terminal.gif" width="600"/>
-</div>
-
-<!-- 渗透阶段进度条 -->
-<h2 align="center">📈 当前作战进度</h2>
-<p align="center">
-  ![Recon](https://geps.dev/progress/85?title=情报搜集&color=8bef34)
-  ![Exploitation](https://geps.dev/progress/70?title=漏洞利用&color=8844ff)
-  ![Post-Exploit](https://geps.dev/progress/60?title=持久控制&color=ff4477)
-</p>
-
----
-
 ## [01] 暗影军械库 | SHADOW ARSENAL
 ### **核心渗透工具** 
 <img src="https://img.shields.io/badge/Metasploit-E34F26?logo=metasploit&logoColor=white" /><img src="https://img.shields.io/badge/Cobalt_Strike-FF6F00?logo=cobaltstrike" /><img src="https://img.shields.io/badge/Sqlmap-FFA500?logo=sqlmap" /><img src="https://img.shields.io/badge/Burp_Suite-FF6347?logo=burp-suite" /><img src="https://img.shields.io/badge/Responder-8A2BE2?logo=terminal" /><img src="https://img.shields.io/badge/BeEF-FF0000?logo=beef" /><img src="https://img.shields.io/badge/Armitage-00BFFF?logo=armitage" /><img src="https://img.shields.io/badge/Netsparker-4B0082?logo=netsparker" /><img src="https://img.shields.io/badge/OWASP_ZAP-8B0000?logo=owasp-zap" /><img src="https://img.shields.io/badge/Nessus-00FF00?logo=tenable" /><img src="https://img.shields.io/badge/Nexpose-228B22?logo=rapid7" /><img src="https://img.shields.io/badge/Canvas-FF4500?logo=immunitysec" /><img src="https://img.shields.io/badge/Core_Impact-000080?logo=core-security" /><img src="https://img.shields.io/badge/PowerSploit-8A2BE2?logo=powershell" /><img src="https://img.shields.io/badge/Empire-FFD700?logo=empire" /><img src="https://img.shields.io/badge/Veil-Framework-808080?logo=veil" /><img src="https://img.shields.io/badge/Commix-00FFFF?logo=commix" /><img src="https://img.shields.io/badge/W3af-4B275F?logo=w3af" /><img src="https://img.shields.io/badge/Arachni-9999FF?logo=arachni" /><img src="https://img.shields.io/badge/WebInspect-008080?logo=hp" /><img src="https://img.shields.io/badge/AppScan-8A2BE2?logo=hcl" /><img src="https://img.shields.io/badge/Acunetix-00FF00?logo=acunetix" /><img src="https://img.shields.io/badge/BeEF_XSS-FF0000?logo=beef" /><img src="https://img.shields.io/badge/NetRipper-FF6F00?logo=netripper" /><img src="https://img.shields.io/badge/Responder_LLMNR-8B008B?logo=responder" /><img src="https://img.shields.io/badge/DeathStar-000000?logo=death-star" /><img src="https://img.shields.io/badge/BloodHound-FF6347?logo=bloodhound" /><img src="https://img.shields.io/badge/LaZagne-00BFFF?logo=lazagne" /><img src="https://img.shields.io/badge/Mimikatz-228B22?logo=mimikatz" /><img src="https://img.shields.io/badge/Responder_SMB-8A2BE2?logo=smb" />
