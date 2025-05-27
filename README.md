@@ -79,55 +79,35 @@ src="https://img.shields.io/badge/Volatility-00BFFF?logo=volatility" /><img src=
 ## [02] 数字战场 | CYBER WARZONE
 
 ### 云安全工具链
-<img src="https://img.shields.io/badge/Pacu-FF6F00?style=flat-square&logo=amazon-aws" />
-<img src="https://img.shields.io/badge/Cloudsploit-00BFFF?style=flat-square&logo=cloudsploit" />
-<img src="https://img.shields.io/badge/ScoutSuite-228B22?style=flat-square&logo=scoutsuite" />
+<img src="https://img.shields.io/badge/Pacu-FF6F00?style=flat-square&logo=amazon-aws" /><img src="https://img.shields.io/badge/Cloudsploit-00BFFF?style=flat-square&logo=cloudsploit" /><img src="https://img.shields.io/badge/ScoutSuite-228B22?style=flat-square&logo=scoutsuite" />
 
 ### 容器安全套件
-<img src="https://img.shields.io/badge/Trivy-00FFFF?style=flat-square&logo=trivy" />
-<img src="https://img.shields.io/badge/Clair-8A2BE2?style=flat-square&logo=clair" />
-<img src="https://img.shields.io/badge/Docker_Bench-00BFFF?style=flat-square&logo=docker" />
+<img src="https://img.shields.io/badge/Trivy-00FFFF?style=flat-square&logo=trivy" /><img src="https://img.shields.io/badge/Clair-8A2BE2?style=flat-square&logo=clair" /><img src="https://img.shields.io/badge/Docker_Bench-00BFFF?style=flat-square&logo=docker" />
 
 ### 物联网渗透
-<img src="https://img.shields.io/badge/Routersploit-FF0000?style=flat-square&logo=routersploit" />
-<img src="https://img.shields.io/badge/ATSCAN-8A2BE2?style=flat-square&logo=atscan" />
-<img src="https://img.shields.io/badge/IoT_Seeker-00FF00?style=flat-square&logo=iot" />
+<img src="https://img.shields.io/badge/Routersploit-FF0000?style=flat-square&logo=routersploit" /><img src="https://img.shields.io/badge/ATSCAN-8A2BE2?style=flat-square&logo=atscan" /><img src="https://img.shields.io/badge/IoT_Seeker-00FF00?style=flat-square&logo=iot" />
 
 ### 区块链安全
-<img src="https://img.shields.io/badge/Mythril-000000?style=flat-square&logo=mythril" />
-<img src="https://img.shields.io/badge/Slither-8A2BE2?style=flat-square&logo=slither" />
-<img src="https://img.shields.io/badge/Ethlint-00BFFF?style=flat-square&logo=ethereum" />
+<img src="https://img.shields.io/badge/Mythril-000000?style=flat-square&logo=mythril" /><img src="https://img.shields.io/badge/Slither-8A2BE2?style=flat-square&logo=slither" /><img src="https://img.shields.io/badge/Ethlint-00BFFF?style=flat-square&logo=ethereum" />
 
 ### 移动安全
-<img src="https://img.shields.io/badge/MobSF-FF6F00?style=flat-square&logo=mobsf" />
-<img src="https://img.shields.io/badge/Frida-000000?style=flat-square&logo=frida" />
-<img src="https://img.shields.io/badge/APKTool-00FF00?style=flat-square&logo=android" />
+<img src="https://img.shields.io/badge/MobSF-FF6F00?style=flat-square&logo=mobsf" /><img src="https://img.shields.io/badge/Frida-000000?style=flat-square&logo=frida" /><img src="https://img.shields.io/badge/APKTool-00FF00?style=flat-square&logo=android" />
 
 ---
 
 ## [03] 暗影技能树 | SHADOW SKILLSET
 
 ### 编程语言
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c" />
-<img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assembly" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go" /><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" /><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c" /><img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assembly" />
 
 ### 操作系统
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux" />
-<img src="https://img.shields.io/badge/Parrot_Security-FF0000?style=flat-square&logo=parrot-security" />
-<img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=blackarch" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux" /><img src="https://img.shields.io/badge/Parrot_Security-FF0000?style=flat-square&logo=parrot-security" /><img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=blackarch" />
 
 ### 云原生安全
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" /><img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm" /><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible" />
 
 ### 数据科学
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" /><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" /><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib" />
 
 ---
 
