@@ -1,5 +1,14 @@
 # </ 萧瑶 - 卡利暗影指挥官 >
-
+<h1 style="font-size: 32px;">
+  <span style="color: #6D8FD9;">┌──(</span>
+  <span style="color: #E33E30;">root㉿localhost</span>
+  <span style="color: #6D8FD9;">)-[</span>
+  <span style="color: white;">/home/kali</span>
+  <span style="color: #6D8FD9;">]</span>
+  <br>
+  <span style="color: #6D8FD9;">└─</span>
+  <span style="color: #E33E30;">#</span>
+</h1>
 ![](https://img.shields.io/badge/KALI_2023.4-PURPLE_OPERATIVE-8A2BE2?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/SECURITY-LEVEL_BLACK-000000?style=for-the-badge&logo=securityscorecard)
 ![](https://img.shields.io/badge/APT-HUNTER-FF0000?style=for-the-badge&logo=antivirus)
