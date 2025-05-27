@@ -12,12 +12,12 @@
 
 <!-- 动态Kali ASCII艺术 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/kali-ascii.svg" width="600"/>
+  <img src="https://raw.githubusercontent.com/ADA-XiaoYao/ADA-XiaoYao/main/assets/kali-ascii.svg" width="600"/>
 </p>
 
 <!-- 实时终端模拟器 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/terminal.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/ADA-XiaoYao/ADA-XiaoYao/main/assets/terminal.gif" width="600"/>
 </div>
 
 <!-- 渗透阶段进度条 -->
