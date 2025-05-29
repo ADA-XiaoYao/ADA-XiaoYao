@@ -4,6 +4,23 @@
 ![](https://img.shields.io/badge/APT-HUNTER-FF0000?style=for-the-badge&logo=antivirus)
 ![](https://img.shields.io/badge/THREAT--CON-DELTA-8A2BE2?style=for-the-badge&logo=hackerone)
 
+<!-- GitHub Markdown + HTML 实现终端风格大字体彩色显示 -->
+<!-- 可放入 README.md 或 index.md -->
+
+<div style="background-color:black; padding:20px; font-family:monospace;">
+  <h1 style="margin:0;">
+    <span style="color:#6D8FD9;">┌──(</span>
+    <span style="color:#E33E30;">root㉿localhost</span>
+    <span style="color:#6D8FD9;">)-[</span>
+    <span style="color:white;">/home/kali</span>
+    <span style="color:#6D8FD9;">]</span>
+  </h1>
+  <h1 style="margin:0;">
+    <span style="color:#6D8FD9;">└─</span>
+    <span style="color:#E33E30;">#</span>
+  </h1>
+</div>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xiaoyao&theme=radical&no-frame=true&row=1&column=7" />
 </div>
