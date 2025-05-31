@@ -105,3 +105,42 @@
     <img src="https://img.shields.io/badge/Email-ada.xiaoyao@example.com-red?style=flat&logo=gmail" />
   </a>
 </p>
+<!-- Alan Walker 风格的 GitHub 主页 -->
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Alan_Walker_logo.svg" width="150" alt="Alan Walker Logo" />
+</p>
+
+<h1 align="center">Welcome to My GitHub Profile</h1>
+
+<p align="center">
+  <em>Inspired by the electrifying beats of Alan Walker</em>
+</p>
+
+---
+
+### 🎶 About Me
+
+- 🔭 I’m currently working on projects that resonate with the energy of electronic music.
+- 🌱 I’m exploring the fusion of code and music.
+- 🎧 Favorite Track: [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [Personal Website](https://yourwebsite.com)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Music Animation" />
+</p>
