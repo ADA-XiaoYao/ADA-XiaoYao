@@ -144,3 +144,41 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Music Animation" />
 </p>
+<!-- 江苏省网络安全保卫队主题 GitHub 主页 -->
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Alan_Walker_logo.svg" width="150" alt="Alan Walker Logo" />
+</p>
+
+<h1 align="center">欢迎来到 ADA-XiaoYao 的 GitHub 主页</h1>
+
+<p align="center">
+  <em>网络安全为人民，网络安全靠人民</em>
+</p>
+
+---
+
+### 🛡️ 关于我
+
+- 🎯 专注于网络安全防护与实战演练
+- 🧠 致力于提升全民网络安全意识
+- 🏆 参与江苏省网络安全宣传周活动
+
+---
+
+### 📈 GitHub 统计
+
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=radical)
+
+---
+
+### 📫 联系我
+
+- 📧 邮箱：your.email@example.com
+- 🌐 个人网站：[yourwebsite.com](https://yourwebsite.com)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="网络安全动画" />
+</p>
