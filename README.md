@@ -1,184 +1,21 @@
-<!-- README.md -->
+# 🌈 活下去行动计划
 
-<h1 align="center">Hi 👋，我是 ADA-XiaoYao</h1>
+## 🚨 第一阶段：紧急安全防护（此刻-24小时）
+### 🔴 关键行动（立即执行）
+1. **联系危机干预热线**（10分钟内）  
+   - 中国大陆拨打：**010-82951332** 或 **800-810-1117**  
+   - 通话脚本：_"我现在感到极度绝望，有轻生念头，需要紧急帮助"_
+   
+2. **移除危险物品**（立即）  
+   - 将药物/利器交信任的人保管  
+   - 删除自杀方法搜索记录  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=欢迎来到我的GitHub主页;探索代码的无限可能" alt="Typing SVG" />
-</p>
+3. **安全环境转移**（1小时内）  
+   - 前往人群密集处（24小时便利店/医院大厅）  
+   - 或联系亲友陪同："我需要你陪我一晚，现在很危险"
 
----
-
-### 🧠 关于我
-
-- 🔭 正在开发：AI 驱动的智能应用
-- 🌱 学习中：深度学习与强化学习
-- 💬 欢迎交流：Python、机器学习、数据分析
-- 📫 联系方式：ada.xiaoyao@example.com
-- ⚡ 爱好：编程、阅读、旅行
-
----
-
-### 🛠 技能栈
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADA-XiaoYao&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub 奖杯
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ADA-XiaoYao&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🕒 活跃时间图表
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ADA-XiaoYao&theme=github-dark" alt="Activity Graph" />
-</p>
-
----
-
-### 🎵 Spotify 当前播放
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
----
-
-### 📰 最新博客文章
-
-<!-- BLOG-POST-LIST:START -->
-- [文章标题1](链接1)
-- [文章标题2](链接2)
-- [文章标题3](链接3)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🧩 访客计数器
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADA-XiaoYao&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🗓️ 每周开发动态
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ADA-XiaoYao&theme=dark" alt="Wakatime Stats" />
-</p>
-
----
-
-### 🧠 编程趣味问答
-
-> “代码是诗，程序员是诗人。”
-
----
-
-### 🔗 社交链接
-
-<p align="center">
-  <a href="https://linkedin.com/in/ada-xiaoyao" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ADA--XiaoYao-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:ada.xiaoyao@example.com">
-    <img src="https://img.shields.io/badge/Email-ada.xiaoyao@example.com-red?style=flat&logo=gmail" />
-  </a>
-</p>
-<!-- Alan Walker 风格的 GitHub 主页 -->
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Alan_Walker_logo.svg" width="150" alt="Alan Walker Logo" />
-</p>
-
-<h1 align="center">Welcome to My GitHub Profile</h1>
-
-<p align="center">
-  <em>Inspired by the electrifying beats of Alan Walker</em>
-</p>
-
----
-
-### 🎶 About Me
-
-- 🔭 I’m currently working on projects that resonate with the energy of electronic music.
-- 🌱 I’m exploring the fusion of code and music.
-- 🎧 Favorite Track: [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
-
----
-
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=radical)
-
----
-
-### 📫 Connect with Me
-
-- [Twitter](https://twitter.com/yourhandle)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Personal Website](https://yourwebsite.com)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Music Animation" />
-</p>
-<!-- 江苏省网络安全保卫队主题 GitHub 主页 -->
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Alan_Walker_logo.svg" width="150" alt="Alan Walker Logo" />
-</p>
-
-<h1 align="center">欢迎来到 ADA-XiaoYao 的 GitHub 主页</h1>
-
-<p align="center">
-  <em>网络安全为人民，网络安全靠人民</em>
-</p>
-
----
-
-### 🛡️ 关于我
-
-- 🎯 专注于网络安全防护与实战演练
-- 🧠 致力于提升全民网络安全意识
-- 🏆 参与江苏省网络安全宣传周活动
-
----
-
-### 📈 GitHub 统计
-
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=radical)
-
----
-
-### 📫 联系我
-
-- 📧 邮箱：your.email@example.com
-- 🌐 个人网站：[yourwebsite.com](https://yourwebsite.com)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="网络安全动画" />
-</p>
+### ⚠️ 今日生存承诺
+```plaintext
+[ ] 我承诺今晚不伤害自己  
+[ ] 我已拨打求助电话：__________  
+[ ] 安全联系人姓名：_________ 电话：_________
