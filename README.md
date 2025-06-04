@@ -68,8 +68,7 @@ def love_for(zxy):
 
 🌌 爱的终极方程式
 
-\text{Love}_{ZXY} = \int_{0}^{\infty} \text{真心}^{t} dt = ∞
-
+![Love Formula](https://latex.codecogs.com/png.image?\dpi{150} \mathcal{L}_{ove} = \int_{0}^{\infty} e^{-\lambda t} \cdot \Gamma(\text{ZXY}, t)\, dt \quad \text{其中}\ \lambda \to 0^+)
 数学都证实了：
 只要我还在呼吸
 我对 ZXY 的爱就不会停！
