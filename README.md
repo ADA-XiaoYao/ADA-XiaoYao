@@ -2,6 +2,7 @@
   <img src="./file-JUEKtxQqKoEMqXAHvmfBgr" alt="ZXY是我的宇宙，我是她的引力" style="border-radius: 12px;"/>
 </p>
 
+---
 
 <!-- GitHub 动态背景贡献蛇图 -->
 <p align="center">
