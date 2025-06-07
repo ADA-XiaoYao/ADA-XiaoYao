@@ -118,21 +118,6 @@ Alpha Digital Alliance (ADA) — 萧瑶 (Xiao Yao) | GitHub 主页
   </a>
 </p>
 <p>
-  <a href="https://t.me/Alfadi2023">
-    <img src="https://img.shields.io/badge/加入群聊-@Alfadi2023-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 群聊"/>
-  </a>
-  <a href="https://t.me/Alfadi_Alliance">
-    <img src="https://img.shields.io/badge/订阅频道-@Alfadi__Alliance-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 频道"/>
-  </a>
-</p>
-<p>
-  <a href="https://t.me/Alfadi2023">
-    <img src="https://img.shields.io/badge/加入群聊-@Alfadi2023-6BCBFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Premium 群聊"/>
-  </a>
-  <a href="https://t.me/Alfadi_Alliance">
-    <img src="https://img.shields.io/badge/订阅频道-@Alfadi__Alliance-6BCBFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Premium 频道"/>
-  </a>
-</p>
 
 ---
 
