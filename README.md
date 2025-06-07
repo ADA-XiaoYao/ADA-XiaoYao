@@ -118,36 +118,6 @@ Alpha Digital Alliance (ADA) — 萧瑶 (Xiao Yao) | GitHub 主页
   </a>
 </p>
 <p>
-<p>
-  <a href="https://t.me/Alfadi2023">
-    <svg xmlns="http://www.w3.org/2000/svg" height="28" viewBox="0 0 220 28">
-      <defs>
-        <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
-          <stop offset="0%" stop-color="#A259FF" />
-          <stop offset="100%" stop-color="#6BCBFF" />
-        </linearGradient>
-      </defs>
-      <rect rx="4" width="220" height="28" fill="url(#grad1)"/>
-      <text x="14" y="19" fill="white" font-family="Segoe UI,Verdana,sans-serif" font-size="13" font-weight="bold">
-        Telegram 群聊 @Alfadi2023
-      </text>
-    </svg>
-  </a>
-  <a href="https://t.me/Alfadi_Alliance" style="margin-left:8px;">
-    <svg xmlns="http://www.w3.org/2000/svg" height="28" viewBox="0 0 250 28">
-      <defs>
-        <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="0">
-          <stop offset="0%" stop-color="#A259FF" />
-          <stop offset="100%" stop-color="#6BCBFF" />
-        </linearGradient>
-      </defs>
-      <rect rx="4" width="250" height="28" fill="url(#grad2)"/>
-      <text x="14" y="19" fill="white" font-family="Segoe UI,Verdana,sans-serif" font-size="13" font-weight="bold">
-        Telegram 频道 @Alfadi_Alliance
-      </text>
-    </svg>
-  </a>
-</p>
 
 ---
 
