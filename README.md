@@ -107,7 +107,7 @@ Alpha Digital Alliance (ADA) — 萧瑶 (Xiao Yao) | GitHub 主页
 
 <p align="center">
   <a href="https://github.com/ADA-XiaoYao"><img src="https://img.shields.io/badge/GitHub-ADA--XiaoYao-black?style=flat&logo=github" alt="GitHub"/></a>
-  <a href="mailto:adaxyao@gmail.com"><img src="https://img.shields.io/badge/Email-xiaoyao@ada--alliance.cn-red?style=flat&logo=gmail" alt="Email"/></a>
+  <a href="mailto:adaxyao@gmail.com"><img src="https://img.shields.io/badge/Email-adaxyao@gmail.com-red?style=flat&logo=gmail" alt="Email"/></a>
   <a href="https://ada-alliance.cn/"><img src="https://img.shields.io/badge/官网-ada--alliance.cn-green?style=flat&logo=web" alt="官网"/></a>
 </p>
 
