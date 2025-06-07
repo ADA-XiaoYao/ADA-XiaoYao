@@ -108,9 +108,15 @@ Alpha Digital Alliance (ADA) — 萧瑶 (Xiao Yao) | GitHub 主页
 <p align="center">
   <a href="https://github.com/ADA-XiaoYao"><img src="https://img.shields.io/badge/GitHub-ADA--XiaoYao-black?style=flat&logo=github" alt="GitHub"/></a>
   <a href="mailto:adaxyao@gmail.com"><img src="https://img.shields.io/badge/Email-adaxyao@gmail.com-red?style=flat&logo=gmail" alt="Email"/></a>
-  <a href="https://ada-alliance.cn/"><img src="https://img.shields.io/badge/官网-ada--alliance.cn-green?style=flat&logo=web" alt="官网"/></a>
-</p>
 
+<p>
+  <a href="https://t.me/Alfadi2023">
+    <img src="https://img.shields.io/badge/加入群聊-@Alfadi2023-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram 群聊"/>
+  </a>
+  <a href="https://t.me/Alfadi_Alliance">
+    <img src="https://img.shields.io/badge/订阅频道-@Alfadi__Alliance-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram 频道"/>
+  </a>
+</p>
 ---
 
 ## 八、终极誓言
