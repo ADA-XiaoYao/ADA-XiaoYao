@@ -98,8 +98,7 @@ Alpha Digital Alliance (ADA) — 萧瑶 (Xiao Yao) | GitHub 主页
 - 国家级科研项目主要承担人  
 - 编入中国军网/警用网络作战单位核心开发组  
 
-📮 招募邮箱：`join@ada-alliance.cn`  
-📎 招募官网：[https://ada-alliance.cn/recruit](https://ada-alliance.cn/recruit)
+📮 招募邮箱：`adaxyao@gmail.com`  
 
 ---
 
