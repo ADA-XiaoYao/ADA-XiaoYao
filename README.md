@@ -50,34 +50,28 @@
         - - Windows Server
          
           - ---
+## GitHub 统计
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="ADA-XiaoYao's GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADA-XiaoYao&theme=dark&hide_border=true" alt="ADA-XiaoYao's GitHub Streak"/>
+</p>p>
 
-          ## GitHub 统计
+---
 
-          <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="ADA-XiaoYao's GitHub Stats"/>
-              <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADA-XiaoYao&theme=dark&hide_border=true" alt="ADA-XiaoYao's GitHub Streak"/>
-          </p>p>
-
-          ---
-
-          ## 我的项目
+## 我的项目
 
           这里将展示我的一些网络安全和渗透测试相关的项目。
 
-          ---
+---
 
-          ## 联系我
+## 联系我
 
           - GitHub: [ADA-XiaoYao](https://github.com/ADA-XiaoYao)
-          - - Email: [your_email@example.com](mailto:your_email@example.com) (请替换为您的邮箱)
+          - - Email: [Gmail](adaxyao@gmail.com)
            
-            - ---
-
-            <p align="center">
-              <img src="https://img.shields.io/badge/Powered%20by-Kali%20Linux-blue.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge">
-                <img src="https://img.io/badge/Cybersecurity-Penetration%20Testing-darkblue.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing Badge">
-                  <img src="https://img.shields.io/badge/Organization-Alfadi%20Alliance-lightgray.svg?style=for-the-badge&logo=github&logoColor=white" alt="Alfadi Alliance Badge">
-            </p>p>
-
-            <!-- 暗色主题兼容性：GitHub 的 README.md 默认支持暗色主题，只要图片和徽章本身兼容暗色背景即可。这里使用的徽章和统计图都已选择暗色主题或透明背景。 -->
-            
+---
+<p align="center">
+<img src="https://img.shields.io/badge/Powered%20by-Kali%20Linux-blue.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge">
+<img src="https://img.io/badge/Cybersecurity-Penetration%20Testing-darkblue.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing Badge">
+<img src="https://img.shields.io/badge/Organization-Alfadi%20Alliance-lightgray.svg?style=for-the-badge&logo=github&logoColor=white" alt="Alfadi Alliance Badge">
+</p>p>
