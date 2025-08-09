@@ -22,55 +22,60 @@
 
 以下是我在网络安全和渗透测试领域掌握的一些技能和工具：
 
-### 渗透测试工具
-
-| 工具名称 | 描述 |
-|---|---|
-| **Nmap** | 网络发现和安全审计工具 |
-| **Metasploit Framework** | 渗透测试开发和执行平台 |
-| **Wireshark** | 网络协议分析器 |
-| **Burp Suite** | Web应用程序安全测试工具 |
-| **Sqlmap** | 自动化SQL注入和数据库接管工具 |
-| **Aircrack-ng** | 无线网络安全评估工具 |
-| **John the Ripper** | 密码破解工具 |
-| **Hashcat** | 密码恢复工具 |
-| **Maltego** | 开源情报和取证工具 |
-| **OWASP ZAP** | Web应用程序安全扫描器 |
-
 ### 编程语言
 
-- Python
-- - Bash/Shell Scripting
-  - - C/C++
-   
-    - ### 操作系统
-   
-    - - Kali Linux
-      - - Debian/Ubuntu
-        - - Windows Server
-         
-          - ---
-## GitHub 统计
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="ADA-XiaoYao's GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADA-XiaoYao&theme=dark&hide_border=true" alt="ADA-XiaoYao's GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="100"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100"/>
+</p>p>
+
+### 渗透测试工具
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="Nmap" width="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-plain.svg" alt="Metasploit Framework" width="100"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="Burp Suite" width="100"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlmap/sqlmap-original.svg" alt="Sqlmap" width="100"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aircrackng/aircrackng-original.svg" alt="Aircrack-ng" width="100"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/johntheripper/johntheripper-original.svg" alt="John the Ripper" width="100"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hashcat/hashcat-original.svg" alt="Hashcat" width="100"/>
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maltego/maltego-original.svg" alt="Maltego" width="100"/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owaspzap/owaspzap-original.svg" alt="OWASP ZAP" width="100"/>
+</p>p>
+
+### 操作系统
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" width="100"/>
+    <!-- 暂无Debian/Ubuntu和Windows Server的Logo，可根据需要添加 -->
+</p>p>
+
+---
+
+## GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADA-XiaoYao&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="ADA-XiaoYao's GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADA-XiaoYao&theme=dark&hide_border=true" alt="ADA-XiaoYao's GitHub Streak"/>
 </p>p>
 
 ---
 
 ## 我的项目
 
-          这里将展示我的一些网络安全和渗透测试相关的项目。
+这里将展示我的一些网络安全和渗透测试相关的项目。
 
 ---
 
 ## 联系我
-GitHub: [ADA-XiaoYao](https://github.com/ADA-XiaoYao)
-Email: [Gmail](adaxyao@gmail.com)
-           
----
-<p align="center">
-<img src="https://img.shields.io/badge/Powered%20by-Kali%20Linux-blue.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge">
-<img src="https://img.io/badge/Cybersecurity-Penetration%20Testing-darkblue.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing Badge">
-<img src="https://img.shields.io/badge/Organization-Alfadi%20Alliance-lightgray.svg?style=for-the-badge&logo=github&logoColor=white" alt="Alfadi Alliance Badge">
-</p>p>
+
+- GitHub: [ADA-XiaoYao](https://github.com/ADA-XiaoYao)
+- - Email: [your_email@example.com](mailto:your_email@example.com) (请替换为您的邮箱)
+ 
+  - ---
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Powered%20by-Kali%20Linux-blue.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge">
+      <img src="https://img.shields.io/badge/Cybersecurity-Penetration%20Te
