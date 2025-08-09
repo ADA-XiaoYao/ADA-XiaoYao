@@ -1,3 +1,7 @@
+ay.svg?style=for-the-badge&logo=github&logoColor=white" alt="Alfadi Alliance Badge">
+</p>
+
+<!-- 暗色主题兼容性：GitHub 的 README.md 默认支持暗色主题，只要图片和徽章本身兼容暗色背景即可。这里使用的徽章和统计图都已选择暗色主题或透明背景。 -->
 # ADA-XiaoYao 的 GitHub 个人主页
 
 <p align="center">
