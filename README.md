@@ -65,9 +65,8 @@
 ---
 
 ## 联系我
-
-          - GitHub: [ADA-XiaoYao](https://github.com/ADA-XiaoYao)
-          - - Email: [Gmail](adaxyao@gmail.com)
+GitHub: [ADA-XiaoYao](https://github.com/ADA-XiaoYao)
+Email: [Gmail](adaxyao@gmail.com)
            
 ---
 <p align="center">
