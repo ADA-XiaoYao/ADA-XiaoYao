@@ -1,8 +1,5 @@
 # ADA-XiaoYao 的 GitHub 个人主页
 
-<p align="center">
-  <img src="https://github.com/ADA-XiaoYao/ADA-XiaoYao/blob/main/assets/kali_linux_banner.png?raw=true" alt="Kali Linux Banner">
-</p>
 
 <p align="center">
   一个专注于网络安全和渗透测试的爱好者。
@@ -123,20 +120,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-linux-plain.svg" alt="Kali Linux" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="Nmap" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-plain.svg" alt="Metasploit" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-plain.svg" alt="Wireshark" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-plain.svg" alt="Burp Suite" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/johntheripper/johntheripper-plain.svg" alt="John the Ripper" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aircrack-ng/aircrack-ng-plain.svg" alt="Aircrack-ng" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlmap/sqlmap-plain.svg" alt="SQLmap" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hydra/hydra-plain.svg" alt="Hydra" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nikto/nikto-plain.svg" alt="Nikto" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gobuster/gobuster-plain.svg" alt="Gobuster" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lynis/lynis-plain.svg" alt="Lynis" width="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owasp/owasp-plain.svg" alt="OWASP ZAP" width="100"/>
-</p>
 
 ---
 
