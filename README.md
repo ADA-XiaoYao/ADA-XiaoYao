@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+![Visitor Count](https://profile-counter.glitch.me/ADA-XiaoYao/count.svg)
 ## 关于我
 
 👋 大家好，我是 ADA-XiaoYao，一名热衷于网络安全和渗透测试的技术爱好者。我专注于探索最新的安全漏洞、研究防御机制，并致力于提升网络安全防护能力。
