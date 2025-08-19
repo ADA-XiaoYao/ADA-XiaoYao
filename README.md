@@ -1,5 +1,6 @@
-# ADA-XiaoYao 的 GitHub 个人主页
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HI%20THERE!&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling" />
+</p>
 
 <p align="center">
   一个专注于网络安全和渗透测试的爱好者。
