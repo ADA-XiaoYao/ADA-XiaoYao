@@ -154,3 +154,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-Penetration%20Testing-darkblue.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing Badge">
   <img src="https://img.shields.io/badge/Organization-Alfadi%20Alliance-lightgray.svg?style=for-the-badge&logo=github&logoColor=white" alt="Alfadi Alliance Badge">
 </p>
+---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=footer&text=BYE!&fontSize=80&fontAlign=50&fontAlignY=70&animation=twinkling" />
+</p>
