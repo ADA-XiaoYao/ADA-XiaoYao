@@ -170,7 +170,7 @@
 ## 联系我
 
 - GitHub: [ADA-XiaoYao](https://github.com/ADA-XiaoYao)
-- Email: [your_email@example.com](mailto:your_email@example.com) (请替换为您的邮箱)
+- Email: [your_email@example.com](mailto:ADAXYao@gmail.com) 
 
 ---
 
